@@ -1,0 +1,5 @@
+#include "resource.h"
+
+1   24    "XPTheme.xml"
+APPICON icon  time.ico
+APPICON1 icon  time1.ico
